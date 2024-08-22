@@ -1,9 +1,11 @@
 # Outputs a summary of each variable to a single text file,
 
 # Class of iris plant:
+# 
 
 # Iris Setosa:
-# sepal length -
+
+# sepal length -  
 # sepal width -
 # petal length -
 # petal width -
