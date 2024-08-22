@@ -11,7 +11,7 @@ This is one of the earliest datasets used in the literature on classification me
 
 For each classified type of plant, we will use four different measurements to evaluate 50 samples in each species.
 
-# Plant classes (Flowers)
+# Plant classes (Iris's  Flower)
  Iris Setosa,  Iris Versicolour,  Iris Virginica
 
 # Variables analyzed for each sample:
@@ -20,3 +20,5 @@ For each classified type of plant, we will use four different measurements to ev
  sepal width 
  petal length 
  petal width 
+
+ Citation: Fisher,R. A.. (1988). Iris. UCI Machine Learning Repository. https://doi.org/10.24432/C56C76.
