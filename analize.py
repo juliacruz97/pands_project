@@ -47,3 +47,31 @@
  # # in the correlation graph we observe that there is a correlation 
  # between the measurements of the study variables. 
 
+ # Classification: Iris Versicolour 
+  
+ # Is one of the species of the iris flower, 
+ # commonly known as the blue flag or harlequin blueflag. 
+ # In the context of the famous Iris dataset used in machine learning, 
+ # it is one of the three species of iris flowers studied, 
+ # along with Iris setosa and Iris virginica.
+ 
+ # Characterized by features such as:
+
+ # Sepal Length: Typically between 4.5 and 7.0 cm.
+ # Sepal Width: Typically between 2.0 and 3.4 cm.
+ # Petal Length: Typically between 3.0 and 5.1 cm.
+ # Petal Width: Typically between 1.0 and 1.8 cm.
+
+ # Classification: Iris virginica
+ 
+ # Is one of the three species in the classic Iris dataset, 
+ # which is frequently used in data science and machine learning 
+ # for classification tasks. Here's a detailed overview of this 
+ # species.
+ 
+ # Characterized by features such as:
+ 
+ # Sepal Length: Typically ranges from 4.9 to 7.9 cm.
+ # Sepal Width: Typically ranges from 2.2 to 3.8 cm.
+ # Petal Length: Typically ranges from 4.5 to 6.9 cm.
+ # Petal Width: Typically ranges from 1.4 to 2.5 cm.
