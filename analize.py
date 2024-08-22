@@ -22,9 +22,28 @@
 # and meadows. It is well-adapted to cold climates, making it common in arctic 
 # and subarctic regions.
 
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
+ # sepal length =  In the analysis of the 50 samples of the iris setosa, 
+ # we noticed that there was a range in the sepal length between 4.3cm 
+ # and 5.8cm, however it was possible to verify a greater number of 
+ # (20 samples) measuring 5cm and 5.1cm.
+ 
+ # sepal width =In the analysis of the 50 samples of the defined iris, 
+ # we noticed that there was a variation in the width of the sepal 
+ # between 2.3 cm and 4.4 cm, however it was possible to verify a 
+ # greater number of (15 samples) measuring 3 cm and 3.5 cm.
+ 
+ # petal length= In the analysis of the 50 samples of the defined iris, 
+ # we noticed that there was a variation in the petal_length between 
+ # 1 cm and 1.9 cm, however it was possible to verify a greater number of 
+ # (26 samples) measuring 1.4 cm and 1.5 cm. 
+ 
+ # petal width = In the analysis of the 50 samples of the defined iris, 
+ # we noticed that there was a variation in the petal_width between 0.1 cm 
+ # and 0.6 cm, however it was possible to verify a greater number of 
+ # (28 samples) measuring 0.2 cm.
 
-img = mpflower.imread('flower.png')
-imgplot = plt.imshow(flower)
-plt.show()
+ # These observations were possible and visible through the histogram 
+ # built with df iris. 
+ # # in the correlation graph we observe that there is a correlation 
+ # between the measurements of the study variables. 
+
